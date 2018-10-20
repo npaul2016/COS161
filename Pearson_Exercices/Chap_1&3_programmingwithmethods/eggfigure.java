@@ -5,15 +5,15 @@ public class EggFigures {
         System.out.println("  ------");
         System.out.println(" /      \\");
         System.out.println("/        \\");
-
+        System.out.println();
         System.out.println("\\        /");
         System.out.println(" \\      /");
         System.out.println("  ------");
-
+        System.out.println();
         System.out.println(" \\      /");
         System.out.println("  \\    /");
         System.out.println("+-------+");
-
+        System.out.println();
         System.out.println("  ------");
         System.out.println(" /      \\");
         System.out.println("/        \\");
@@ -21,7 +21,7 @@ public class EggFigures {
         System.out.println("\\        /");
         System.out.println(" \\      /");
         System.out.println("  ------");
-
+        System.out.println();
         System.out.println("  ------");
         System.out.println(" /      \\");
         System.out.println("/        \\");
