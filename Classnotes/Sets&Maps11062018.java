@@ -87,3 +87,20 @@ Map interface in java.util
 implemented by HashMap and TreeMap classes
 
 Maps methods (list )
+
+
+// using maps : a map allow to get from one half of a parir to the other
+
+get.names ( //then it gives you an ID)
+
+
+
+//Exercice > read a file into a map of [word -- > number of occurences]
+
+Scanner input = new Scanner (new File ) ("mobydick.txt");
+
+while (input.hasNext);
+
+String word = input.next();
+
+if wordCount
